@@ -13,9 +13,11 @@ IMPLEMENTATION:
 The project evaluates several classifiers, including Decision Trees, Support Vector Machines, and Artificial Neural Networks, to determine their effectiveness in software fault prediction. It highlights the strengths of each algorithm, particularly the Decision Tree's interpretability and the ANN's ability to capture complex patterns. Genetic Algorithms are employed for hyper-parameter optimization, allowing for a systematic exploration of the parameter space to enhance model performance. The evolutionary nature of GA facilitates the discovery of optimal solutions through processes like selection, crossover, and mutation.
 
 WORKFLOW:
+
 ![image](https://github.com/user-attachments/assets/cd4be2d6-2627-408e-919d-efeaa3e8665f)
 
 CODE IMPLEMENTATION FLOW:
+
 ![image](https://github.com/user-attachments/assets/baaaf659-965b-4f3e-ad66-e1364e8f6b7d)
 
 RESULT & ANALYSIS:
